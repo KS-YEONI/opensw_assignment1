@@ -12,7 +12,7 @@
    파일 생성
 5. 다운 받은 데이터 파일 datasets에 압축 해제
 
-- 겪은 오류
+<겪은 오류>
 - tensorflow 오류 발생
 - pip install -로 해결
 
