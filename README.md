@@ -13,8 +13,8 @@
 5. 다운 받은 데이터 파일 datasets에 압축 해제
 
 <겪은 오류>
-- tensorflow 오류 발생
-- pip install -로 해결
+- tensorflow TypeError: Descriptors cannot not be created directly. 오류 발생
+- pip install protobuf==3.20.* 로 해결
 
 <결과물> 
 ![splash_20231124T183742](https://github.com/KS-YEONI/opensw_assignment1/assets/102871589/c82b70d1-4af0-40f3-87e6-2fdd8ed02483)
